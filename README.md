@@ -16,7 +16,7 @@ Print output
 
 ## Program:
 ```python
-#Program developed by: ivabalan.s
+#Program developed by: Sivabalan.s
 #Register number: 22004401
 import numpy as np
 a=np.array(([-2,2,-3],[2,1,-6],[-1,-2,0]))
